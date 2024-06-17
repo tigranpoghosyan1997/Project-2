@@ -1,8 +1,8 @@
-# Hi there, I'm Tigran 👋
+# Hi there, We are AnalityCorp Labs 👋
 
 ![Profile Banner](https://your-image-url/banner.png)
 
-I am a passionate **Data Analyst** with a strong background in SQL, MySQL, BigQuery, and data visualization tools such as Power BI, Tableau, and Looker Studio.
+We specialize in leveraging data to provide valuable insights and solutions for your business needs. Whether you're aiming to optimize processes, improve decision-making, or enhance product performance, our team of experienced data scientists and analysts is here to help.
 
 ## 🛠 Skills & Tools
 
@@ -20,12 +20,7 @@ I am a passionate **Data Analyst** with a strong background in SQL, MySQL, BigQu
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Looker Studio" />
 </div>
 
-### Other Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
+
 
 ---
 
@@ -90,12 +85,6 @@ Tips and techniques for writing efficient SQL queries to handle large datasets.
 
 ---
 
-## 🎯 Goals for 2024
-- Contribute to open-source data projects.
-- Enhance proficiency in machine learning algorithms.
-- Network with other data professionals.
-- Stay updated with the latest trends in data analytics.
 
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
