@@ -48,19 +48,6 @@ A scalable data pipeline implemented in BigQuery to process and analyze large da
 
 ---
 
-## 📬 Get in Touch
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tigran-poghosyan-7b538a188/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:analyticorplabs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
----
-
 ## 🌟 Featured Articles
 
 ### [How to Create Stunning Data Visualizations](https://your-blog-url.com/how-to-create-stunning-data-visualizations)
@@ -74,6 +61,17 @@ Tips and techniques for writing efficient SQL queries to handle large datasets.
 ![Article Image](https://your-image-url/article-image-2.png)
 
 ---
+
+## 📬 Get in Touch
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tigran-poghosyan-7b538a188/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:analyticorplabs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 
 
