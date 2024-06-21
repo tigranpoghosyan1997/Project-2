@@ -1,6 +1,6 @@
 # Hi there, We are AnalityCorp Labs 👋
 
-![Profile Banner](https://your-image-url/banner.png)
+![Profile Banner](https://github.com/tigranpoghosyan1997/image/blob/main/Color%20logo%20-%20no%20background.png)
 
 We specialize in leveraging data to provide valuable insights and solutions for your business needs. Whether you're aiming to optimize processes, improve decision-making, or enhance product performance, our team of experienced data scientists and analysts is here to help.
 
@@ -8,9 +8,10 @@ We specialize in leveraging data to provide valuable insights and solutions for 
 
 ### Languages & Databases
 <div align="center">
-  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-%23F29111.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Amazon%20Redshift-FF9900?style=for-the-badge&logo=amazon-redshift&logoColor=white" alt="Amazon Redshift" />
 </div>
 
 ### Data Visualization
@@ -26,24 +27,22 @@ We specialize in leveraging data to provide valuable insights and solutions for 
 
 ## 📊 Projects
 
-### 1. Sales Dashboard in Power BI
-A comprehensive sales dashboard built using Power BI to track sales performance, trends, and KPIs.
+### 1. HR Dashboard in Power BI
 
-![Sales Dashboard](https://your-image-url/sales-dashboard.png)
+![HR Dashboard](https://github.com/tigranpoghosyan1997/image/blob/main/HR%20Dashboard.png)
 
 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/yourusername/sales-dashboard)
 
-### 2. Customer Analysis with Tableau
-An interactive Tableau dashboard for analyzing customer demographics and behavior.
+### 2. Sales Dashboard in Looker Studio
 
-![Customer Analysis](https://your-image-url/customer-analysis.png)
+![Sales Dashboard](https://github.com/tigranpoghosyan1997/image/blob/main/Sales%20Dashboard.png)
 
 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/yourusername/customer-analysis)
 
-### 3. BigQuery Data Pipeline
+### 3. Orders Dashboard in Looker Studio
 A scalable data pipeline implemented in BigQuery to process and analyze large datasets.
 
-![BigQuery Pipeline](https://your-image-url/bigquery-pipeline.png)
+![Orders Dashboard](https://github.com/tigranpoghosyan1997/image/blob/main/Orders%20Dashboard.png)
 
 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/yourusername/bigquery-pipeline)
 
@@ -52,10 +51,10 @@ A scalable data pipeline implemented in BigQuery to process and analyze large da
 ## 📬 Get in Touch
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/tigran-poghosyan-7b538a188/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tigran@example.com">
+  <a href="mailto:analyticorplabs@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
