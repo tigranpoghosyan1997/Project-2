@@ -45,17 +45,21 @@ A scalable data pipeline implemented in BigQuery to process and analyze large da
 ![Orders Dashboard](https://github.com/tigranpoghosyan1997/image/blob/main/Orders%20Dashboard.png)
 
 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/yourusername/bigquery-pipeline)
+---
+
+code 1
+code 2
 
 ---
 
 ## 🌟 Featured Articles
 
-### [How to Create Stunning Data Visualizations](https://your-blog-url.com/how-to-create-stunning-data-visualizations)
+### How to Create Stunning Data Visualizations
 An in-depth guide on creating data visualizations that captivate and inform.
 
 ![Article Image](https://github.com/tigranpoghosyan1997/image/blob/main/Steps.png)
 
-### [Optimizing SQL Queries for Big Data](https://your-blog-url.com/optimizing-sql-queries-for-big-data)
+### Optimizing SQL Queries for Big Data
 Tips and techniques for writing efficient SQL queries to handle large datasets.
 
 ![Article Image](https://github.com/tigranpoghosyan1997/image/blob/main/Steps%202.png)
@@ -65,7 +69,7 @@ Tips and techniques for writing efficient SQL queries to handle large datasets.
 ## 📬 Get in Touch
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tigran-poghosyan-7b538a188/">
+  <a href="https://www.linkedin.com/company/analyticorplabs/about/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:analyticorplabs@gmail.com">
