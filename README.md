@@ -33,13 +33,13 @@ We specialize in leveraging data to provide valuable insights and solutions for 
 
 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/yourusername/sales-dashboard)
 
-### 2. Sales Dashboard in Looker Studio
+### [2. Sales Dashboard in Looker Studio](https://lookerstudio.google.com/u/0/reporting/5876e81e-3902-40d4-befd-b6525b566851/page/PQwdC)
 
 ![Sales Dashboard](https://github.com/tigranpoghosyan1997/image/blob/main/Sales%20Dashboard.png)
 
 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/yourusername/customer-analysis)
 
-### 3. Orders Dashboard in Looker Studio
+### [3. Orders Dashboard in Looker Studio](https://lookerstudio.google.com/u/0/reporting/e87fe00b-dc2a-41fb-9c7c-c050444c0165/page/WUA8C)
 A scalable data pipeline implemented in BigQuery to process and analyze large datasets.
 
 ![Orders Dashboard](https://github.com/tigranpoghosyan1997/image/blob/main/Orders%20Dashboard.png)
@@ -53,12 +53,12 @@ A scalable data pipeline implemented in BigQuery to process and analyze large da
 ### [How to Create Stunning Data Visualizations](https://your-blog-url.com/how-to-create-stunning-data-visualizations)
 An in-depth guide on creating data visualizations that captivate and inform.
 
-![Article Image](https://your-image-url/article-image.png)
+![Article Image](https://github.com/tigranpoghosyan1997/image/blob/main/Steps.png)
 
 ### [Optimizing SQL Queries for Big Data](https://your-blog-url.com/optimizing-sql-queries-for-big-data)
 Tips and techniques for writing efficient SQL queries to handle large datasets.
 
-![Article Image](https://your-image-url/article-image-2.png)
+![Article Image](https://github.com/tigranpoghosyan1997/image/blob/main/Steps%202.png)
 
 ---
 
